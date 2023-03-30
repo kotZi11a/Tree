@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\OneDrive - Samara University\2 Семестр\ЯП\Lab_3_TreeV11\Lab_3_TreeV11\Source.cpp(136,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\OneDrive - Samara University\2 Семестр\ЯП\Lab_3_TreeV11\Lab_3_TreeV11\Source.cpp(139,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab_3_TreeV11.vcxproj -> D:\OneDrive - Samara University\2 Семестр\ЯП\Lab_3_TreeV11\x64\Debug\Lab_3_TreeV11.exe
